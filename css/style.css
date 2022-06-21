@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+
+
+.top-container {
+    background-color: #693C72;
+    height: 100vh;
+}
+
+.top-wallpaper {
+    height: 50%;
+    width: 100%;
+}
