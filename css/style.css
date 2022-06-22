@@ -44,21 +44,21 @@ hr {
     color: #FFE59D;
     margin: 0;
     padding: 2rem 0 1rem 0;
-    font-size: 10rem;
+    font-size: 10vw;
     line-height: 2;
 }
 
 .main-header-subtitle {
     font-family: 'Press Start 2P', cursive;
     color: #FFE59D;
-    font-size: 2rem;
+    font-size: 2.5vw;
     padding-top: 0;
 }
 
 .scroll-to-continue {
     font-family: 'Aldrich', sans-serif;
     color: #FFE59D;
-    font-size: 2rem;
+    font-size: 2.5vw;
 }
 
 .top-container {
