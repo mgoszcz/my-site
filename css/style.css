@@ -75,6 +75,10 @@ hr {
     left: 0;
 }
 
+.my-photo {
+    width: 15%;
+}
+
 .bottom-container {
     background-color: #3D087B;
     padding: 50px;
