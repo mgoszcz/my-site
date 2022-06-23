@@ -8,10 +8,6 @@ font-family: 'Ultra', serif;
 body {
     margin: 0;
     text-align: center;
-
-}
-
-div {
     background-color: #9D84B7;
 }
 
@@ -75,8 +71,20 @@ hr {
     left: 0;
 }
 
-.my-photo {
-    width: 15%;
+.about-me {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.header {
+    width: 50%;
+    margin: 0 auto;
+}
+
+.header-icon {
+    width: 20%;
+    float: left;
 }
 
 .bottom-container {
