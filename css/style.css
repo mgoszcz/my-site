@@ -77,14 +77,36 @@ hr {
     line-height: 2;
 }
 
+.experience {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.my-skills {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.my-hobbies {
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
 .header {
-    width: 450px;
+    width: 75%;
     margin: 0 auto;
 }
 
 .header-icon {
-    width: 100px;
+    width: min(7.5vmax, 100px);
     float: left;
+}
+
+.header-text {
+    font-size: min(2em, 2vmax);
 }
 
 .bottom-container {
