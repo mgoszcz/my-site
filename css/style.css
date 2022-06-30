@@ -72,25 +72,25 @@ hr {
 }
 
 .about-me {
-    width: 50%;
+    width: 75%;
     margin: 100px auto;
     line-height: 2;
 }
 
 .experience {
-    width: 50%;
+    width: 75%;
     margin: 100px auto;
     line-height: 2;
 }
 
 .my-skills {
-    width: 50%;
+    width: 75%;
     margin: 100px auto;
     line-height: 2;
 }
 
 .my-hobbies {
-    width: 50%;
+    width: 75%;
     margin: 100px auto;
     line-height: 2;
 }
@@ -107,6 +107,18 @@ hr {
 
 .header-text {
     font-size: min(2em, 2vmax);
+}
+
+
+.workplace-image {
+    width: min(2vmax ,50px);
+    vertical-align: middle;
+}
+
+.experience-header {
+    display: inline;
+    text-align: left;
+    margin-left: 0;
 }
 
 .bottom-container {
