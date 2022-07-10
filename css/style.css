@@ -36,6 +36,7 @@ hr {
     background-image:url("../images/line-neon.gif");
 }
 
+
 .main-header {
     color: #FFE59D;
     margin: 0;
@@ -117,8 +118,16 @@ hr {
 
 .experience-header {
     display: inline;
-    text-align: left;
-    margin-left: 0;
+}
+
+.skill-icon {
+    width: min(7.5vmax, 200px);
+    float: left;
+    vertical-align: middle;
+}
+
+.skills-list {
+    float: right;
 }
 
 .bottom-container {
